@@ -2,64 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DHLUI.github.io</id>
     <title>Welcome! I&apos;am Herring 👋</title>
-    <updated>2021-02-11T02:59:27.246Z</updated>
+    <updated>2021-02-12T04:51:18.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DHLUI.github.io"/>
     <link rel="self" href="https://DHLUI.github.io/atom.xml"/>
-    <subtitle>A full time UX designer &amp; A part time CSSer. From China and now working for @bytedance</subtitle>
+    <subtitle>A full time UX designer &amp; part time CSSer. Come from China and working for @Bytedance now </subtitle>
     <logo>https://DHLUI.github.io/images/avatar.png</logo>
     <icon>https://DHLUI.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Welcome! I&apos;am Herring 👋</rights>
     <entry>
-        <title type="html"><![CDATA[LARK Design]]></title>
+        <title type="html"><![CDATA[Love with Lark @Bytedance]]></title>
         <id>https://DHLUI.github.io/post/wo-shi-di-er-pian-wen-zhang/</id>
         <link href="https://DHLUI.github.io/post/wo-shi-di-er-pian-wen-zhang/">
         </link>
         <updated>2021-02-11T01:13:52.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>Did Michigan Sen. Mike Shirkey Suggest Capitol Riot Was ‘Hoax’ in Leaked Video?</p>
+        <summary type="html"><![CDATA[<p>I joined ByteDance in 2019 as a UX designer. The project I focus on named Lark, chinese name Feishu.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>I joined ByteDance in 2019 as a UX designer. The project I focus on named Lark, chinese name Feishu.</p>
 <!-- more -->
+<h2 id="whats-lark">What's Lark?</h2>
+<h3 id="essential-work-tools-seamless-connection">Essential Work Tools, Seamless Connection</h3>
+<p>We believe your work is shaped by the tools you use. Lark integrates messaging, video conferencing, schedule management, collaborative documents, cloud storage, email, and workflow applications to provide a seamless collaboration experience on all your devices.</p>
+<p>If you wanna learn more about Lark, click this <a href="https://www.larksuite.com/en_us/">home page link</a></p>
+<p>The functional modules I focused on is Passport, Which including login registration and account center.I cannot show too many design ideas of passport because of the confidentiality agreement. Welcome everyone to experience our passport path.</p>
+<h3 id="some-promotional-images">Some promotional images</h3>
+<p><img src="https://DHLUI.github.io/post-images/1613096846790.png" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613096857697.png" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613096864779.png" alt="" loading="lazy"></p>
+<p>😘</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[玩儿玩儿 v]]></title>
+        <title type="html"><![CDATA[Bigbang season1 souvenir]]></title>
+        <id>https://DHLUI.github.io/post/bigbang-season1-souvenir/</id>
+        <link href="https://DHLUI.github.io/post/bigbang-season1-souvenir/">
+        </link>
+        <updated>2020-07-15T03:10:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>The first period of the course is over. I am very happy to be a lecturer. The souvenirs designed by the creative team is excellent！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>The first period of the course is over. I am very happy to be a lecturer. The souvenirs designed by the creative team is excellent！</p>
+<!-- more -->
+<p><img src="https://DHLUI.github.io/post-images/1613099750710.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613099776717.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613099788139.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613099808142.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613099820742.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613099831115.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613099838099.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparation for ESUX Bigbang season1]]></title>
         <id>https://DHLUI.github.io/post/wan-er-wan-er-v/</id>
         <link href="https://DHLUI.github.io/post/wan-er-wan-er-v/">
         </link>
-        <updated>2021-02-11T00:29:22.000Z</updated>
-        <content type="html"><![CDATA[<p>是分身乏术地方<img src="https://DHLUI.github.io/post-images/1613003377961.png" alt="" loading="lazy"></p>
+        <updated>2020-02-02T00:29:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>Prepare the team's course during the Spring Festival. I wanna share some knowledge about Bezier curves in animation design.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Prepare the team's course during the Spring Festival. I wanna share some knowledge about Bezier curves in animation design.</p>
+<!-- more -->
+<p><strong>Prepare keynote during the epidemic</strong></p>
+<p><img src="https://DHLUI.github.io/post-images/1613097813695.jpg" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613097820333.jpg" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613097831072.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[MOGU Street Annual meeting in 2018]]></title>
         <id>https://DHLUI.github.io/post/hello-gridea/</id>
         <link href="https://DHLUI.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>Although I have left  MOGU Street , I have to say that the quality of MOGU Street Annual meeting exceeds that of any company in Zhejiang Province.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>Although I have left  MOGU Street , I have to say that the quality of MOGU Street Annual meeting exceeds that of any company in Zhejiang Province.</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<p><img src="https://DHLUI.github.io/post-images/1613100335131.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613100343656.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613100350943.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1613100356380.JPG" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
