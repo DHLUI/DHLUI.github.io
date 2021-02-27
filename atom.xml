@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DHLUI.github.io</id>
-    <title>Welcome! I&apos;am Herring 👋</title>
-    <updated>2021-02-16T15:16:40.240Z</updated>
+    <title>Welcome here! I&apos;m Hanlin Dai 👋🏼</title>
+    <updated>2021-02-27T08:50:55.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DHLUI.github.io"/>
     <link rel="self" href="https://DHLUI.github.io/atom.xml"/>
-    <subtitle>A full time UX designer &amp; part time CSSer. Come from China and working for @Bytedance now </subtitle>
+    <subtitle>A full time UX designer &amp; part time CSSer. Come from China and now working at @Bytedance.</subtitle>
     <logo>https://DHLUI.github.io/images/avatar.png</logo>
     <icon>https://DHLUI.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Welcome! I&apos;am Herring 👋</rights>
-    <entry>
-        <title type="html"><![CDATA[test02]]></title>
-        <id>https://DHLUI.github.io/post/test02/</id>
-        <link href="https://DHLUI.github.io/post/test02/">
-        </link>
-        <updated>2021-02-15T12:37:30.000Z</updated>
-        <content type="html"><![CDATA[<p>测试测试测试测试测试测试测试测试测试测试测试测试测试测试</p>
-<!-- more -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[test01]]></title>
-        <id>https://DHLUI.github.io/post/test01/</id>
-        <link href="https://DHLUI.github.io/post/test01/">
-        </link>
-        <updated>2021-02-14T10:52:17.000Z</updated>
-        <content type="html"><![CDATA[<p>就啊打了卡就打开手机大家都叫阿所看见的</p>
-<!-- more -->]]></content>
-    </entry>
+    <rights>All rights reserved 2021, Welcome here! I&apos;m Hanlin Dai 👋🏼</rights>
     <entry>
         <title type="html"><![CDATA[About Me]]></title>
         <id>https://DHLUI.github.io/post/about-me/</id>
@@ -38,7 +20,7 @@
 <p>You can also call me Herring, that's my english name. I graduated from Zhejiang University - City College in 2014. My major is electronic information engineering, and i participated in some college research projects during the university time. Such as   <a href="https://en.wikipedia.org/wiki/Multi-touch#:~:text=10%20External%20links-,Definition,of%20contact%20with%20the%20surface.">Multi-Touch</a>   &amp; <a href="https://en.wikipedia.org/wiki/Freescale_Semiconductor">Freescale Smart car </a>  , I joined a student research organization called “Debug” and make some projects though programming via Single-Chip Microcomputer.</p>
 <p><strong>Records during university time</strong></p>
 <p><img src="https://DHLUI.github.io/post-images/1613224932976.png" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613224945347.png" alt="" loading="lazy"></p>
+<img src="https://DHLUI.github.io/post-images/1614404458773.png" alt="" loading="lazy"></p>
 <hr>
 <h1 id="about-design">About design</h1>
 <p>I got in touch with 3D design during my senior year in university, I am totally obsessed with a design software called 3D max！I started to learn knowledge of design with teachers from creative college in our university.</p>
@@ -46,68 +28,87 @@
 <figure data-type="image" tabindex="1"><img src="https://DHLUI.github.io/post-images/1613224973711.png" alt="" loading="lazy"></figure>
 <p>Oh! that is really great software!  After that,  I opened the door to design, I prefer design to hardware programming  (aha~emmm～🤔Maybe just because design is easier than programming). But to be honest, I love design &amp; create.</p>
 <p>After graduating from university, I got in touch the internet industry, working in the internet industry as a UX designer. In these years of work, I have served different companies and products. I am very grateful for the help that my former team gave me.😘</p>
+<p><strong>Below are some companies that I have served before</strong></p>
 <figure data-type="image" tabindex="2"><img src="https://DHLUI.github.io/post-images/1613225220155.png" alt="" loading="lazy"></figure>
-<p><strong>Some products I have served</strong></p>
-<p><em>A designer who hopes to use design methods to help business strategies succeed</em></p>
+<p><em>I am a designer who hopes to use design methods to help business strategies succeed</em></p>
 <p><em>Hanlin Dai（Herring）</em><br>
 <em>2021-02-13</em></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Love with Lark @Bytedance]]></title>
+        <title type="html"><![CDATA[Design for Lark @Bytedance]]></title>
         <id>https://DHLUI.github.io/post/wo-shi-di-er-pian-wen-zhang/</id>
         <link href="https://DHLUI.github.io/post/wo-shi-di-er-pian-wen-zhang/">
         </link>
         <updated>2021-02-11T01:13:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>I joined ByteDance in 2019 as a UX designer. The project I focus on named Lark, chinese name Feishu.</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>I joined ByteDance in 2019 as a UX designer. The project I focus on named Lark, chinese name Feishu.</p>
-<!-- more -->
+        <content type="html"><![CDATA[<p>I joined ByteDance in 2019 as a UX designer. The project I focus on named Lark, chinese name Feishu. <!-- more -->The team I am working for named ESUX, ES(Enterprise and Service) is committed to promoting business development in terms of tools and services. ESUX is the design team subordinate to ES(Enterprise and Service).</p>
 <h2 id="whats-lark">What's Lark?</h2>
 <h3 id="essential-work-tools-seamless-connection">Essential Work Tools, Seamless Connection</h3>
 <p>We believe your work is shaped by the tools you use. Lark integrates messaging, video conferencing, schedule management, collaborative documents, cloud storage, email, and workflow applications to provide a seamless collaboration experience on all your devices.</p>
-<p>If you wanna learn more about Lark, click this <a href="https://www.larksuite.com/en_us/">home page link</a></p>
-<p>The functional modules I focused on is Passport, Which including login registration and account center.I cannot show too many design ideas of passport because of the confidentiality agreement. Welcome everyone to experience our passport path.</p>
-<h3 id="some-promotional-images">Some promotional images</h3>
-<p><img src="https://DHLUI.github.io/post-images/1613096846790.png" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613096857697.png" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613096864779.png" alt="" loading="lazy"></p>
-<p>😘</p>
+<p>If you wanna learn more about Lark, click this <a href="https://www.larksuite.com/en_us/">Home page link</a></p>
+<h2 id="working-at-bytedance">Working at Bytedance</h2>
+<p>I am taking the roles as an interviewer, a mentor, and an connector person (connector person means vertical cooperation on the business side) in bytedance.</p>
+<p>Currently, I am in charge of the AC business line of Lark, the full name is &quot;Admin and Control&quot;, which includes 2 parts：</p>
+<p><strong>1. Admin</strong><br>
+<strong>2. Passport</strong></p>
+<p>Another business line i am focusing on is <strong>User Growth</strong>. In the UG business line, I cooperate with the business product manager and use different kinds of testing methods, such as ABtest, looking for the best design strategy to help the business get good data results.</p>
+<p>I cannot show too many design strategy of my work because of the confidentiality agreement. But, welcome to experience  <a href="https://www.larksuite.com/en_us/">LARK</a>  😘</p>
+<h3 id="viewpoints-and-experiences-i-have-summed-up-during-the-time-working-in-bytedance">Viewpoints and experiences I have summed up during the time working in bytedance：</h3>
+<ul>
+<li>It's necessary to try to prove the value of design, but it's more important to help the business succeed</li>
+<li>The design strategy should be derived from business background rationality and logical, just like the deduction of a mathematical conclusion</li>
+<li>Communication focuses on presenting objective facts, not your point of view</li>
+</ul>
+<h3 id="about-my-design-teamesux">About my design team——ESUX</h3>
+<p>Our design team (ESUX) is a team of design talents with diverse background and from leading companies worldwide. Currently, we have offices in Beijing, Shanghai, Shenzhen, Guangdong, Chengdu, Hangzhou, Wuhan, San Francisco and Singapore. Our team is looking for multiple designer roles to help shape the future of Bytedance.</p>
+<p><img src="https://DHLUI.github.io/post-images/1614403286490.jpg" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1614403297452.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bigbang season1 souvenir]]></title>
-        <id>https://DHLUI.github.io/post/bigbang-season1-souvenir/</id>
-        <link href="https://DHLUI.github.io/post/bigbang-season1-souvenir/">
-        </link>
-        <updated>2020-07-15T03:10:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>The first period of the course is over. I am very happy to be a lecturer. The souvenirs designed by the creative team is excellent！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>The first period of the course is over. I am very happy to be a lecturer. The souvenirs designed by the creative team is excellent！</p>
-<!-- more -->
-<p><img src="https://DHLUI.github.io/post-images/1613099750710.JPG" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613099776717.JPG" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613099788139.JPG" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613099808142.JPG" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613099820742.JPG" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613099831115.JPG" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1613099838099.JPG" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preparation for ESUX Bigbang season1]]></title>
+        <title type="html"><![CDATA[Records during winter vacation in 2020]]></title>
         <id>https://DHLUI.github.io/post/wan-er-wan-er-v/</id>
         <link href="https://DHLUI.github.io/post/wan-er-wan-er-v/">
         </link>
         <updated>2020-02-02T00:29:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>Prepare the team's course during the Spring Festival. I wanna share some knowledge about Bezier curves in animation design.</p>
+        <summary type="html"><![CDATA[<p>Preparing lessons for BigBang season1 during the Spring Festival. As the first teacher of this season1. I wanna share some knowledge about Bezier curves in animation design. Just recording 🏠</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Prepare the team's course during the Spring Festival. I wanna share some knowledge about Bezier curves in animation design.</p>
+        <content type="html"><![CDATA[<p>Preparing lessons for BigBang season1 during the Spring Festival. As the first teacher of this season1. I wanna share some knowledge about Bezier curves in animation design. Just recording 🏠</p>
 <!-- more -->
-<p><strong>Prepare keynote during the epidemic</strong></p>
+<p><strong>Prepare keynote during the epidemic period</strong></p>
 <p><img src="https://DHLUI.github.io/post-images/1613097813695.jpg" alt="" loading="lazy"><br>
 <img src="https://DHLUI.github.io/post-images/1613097820333.jpg" alt="" loading="lazy"><br>
 <img src="https://DHLUI.github.io/post-images/1613097831072.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get start learning how to cooking]]></title>
+        <id>https://DHLUI.github.io/post/mei-shi-ji-lu/</id>
+        <link href="https://DHLUI.github.io/post/mei-shi-ji-lu/">
+        </link>
+        <updated>2019-10-21T10:58:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>I moved into my new home and began to learn how to cook In 2019.</p>
+<h2 id="recording-my-kitchen-time">Recording my kitchen time</h2>
+]]></summary>
+        <content type="html"><![CDATA[<p>I moved into my new home and began to learn how to cook In 2019.</p>
+<h2 id="recording-my-kitchen-time">Recording my kitchen time</h2>
+<!-- more -->
+<p><img src="https://DHLUI.github.io/post-images/1614406453585.JPG" alt="" loading="lazy"><br>
+<strong>Sauteed Shredded Pork with Sweet - Bean Sauce⬆️</strong></p>
+<p><img src="https://DHLUI.github.io/post-images/1614406532800.jpg" alt="" loading="lazy"><br>
+<strong>Cola Chicken Wings⬆️</strong></p>
+<p><img src="https://DHLUI.github.io/post-images/1614406603096.JPG" alt="" loading="lazy"><br>
+<strong>Crayfish⬆️</strong></p>
+<figure data-type="image" tabindex="1"><img src="https://DHLUI.github.io/post-images/1614406642360.JPG" alt="" loading="lazy"></figure>
+<p><strong>Beef well rice⬆️</strong></p>
+<p><img src="https://DHLUI.github.io/post-images/1614406734811.JPG" alt="" loading="lazy"><br>
+<strong>Sauteed Lettuce in Oyster Sauce⬆️</strong></p>
+<p><img src="https://DHLUI.github.io/post-images/1614406755259.JPG" alt="" loading="lazy"><br>
+<strong>Cumin chicken⬆️</strong></p>
+<p><img src="https://DHLUI.github.io/post-images/1614406787090.JPG" alt="" loading="lazy"><br>
+<strong>Roast eel⬆️</strong></p>
+<figure data-type="image" tabindex="2"><img src="https://DHLUI.github.io/post-images/1614406814462.JPG" alt="" loading="lazy"></figure>
+<p><strong>Boiled Beef⬆️</strong></p>
 ]]></content>
     </entry>
     <entry>
@@ -116,14 +117,51 @@
         <link href="https://DHLUI.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Although I have left  MOGU Street , I have to say that the quality of MOGU Street Annual meeting exceeds that of any company in Zhejiang Province.</p>
+        <summary type="html"><![CDATA[<p>The Beauty of MOGU Street Annual meeting should be the first in Zhejiang Province🤔🤔🤔</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Although I have left  MOGU Street , I have to say that the quality of MOGU Street Annual meeting exceeds that of any company in Zhejiang Province.</p>
+        <content type="html"><![CDATA[<p>The Beauty of MOGU Street Annual meeting should be the first in Zhejiang Province🤔🤔🤔</p>
 <!-- more -->
 <p><img src="https://DHLUI.github.io/post-images/1613100335131.JPG" alt="" loading="lazy"><br>
 <img src="https://DHLUI.github.io/post-images/1613100343656.JPG" alt="" loading="lazy"><br>
 <img src="https://DHLUI.github.io/post-images/1613100350943.JPG" alt="" loading="lazy"><br>
 <img src="https://DHLUI.github.io/post-images/1613100356380.JPG" alt="" loading="lazy"></p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design for Shanghai Jiao Tong University FDT financial laboratory]]></title>
+        <id>https://DHLUI.github.io/post/fdt/</id>
+        <link href="https://DHLUI.github.io/post/fdt/">
+        </link>
+        <updated>2016-02-27T05:57:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>A coffee shop with perfect financial functions, an exchange with comfortable environment, and a financial club with first-class resources and equipment.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>A coffee shop with perfect financial functions, an exchange with comfortable environment, and a financial club with first-class resources and equipment.</p>
+<!-- more -->
+<h2 id="this-is-the-first-time-for-me-to-design-offline-space">This is the first time for me to design Offline space.</h2>
+<p>When I worked for &quot;FDT&quot; in 2016, I had the opportunity to participate in material and screen design for Shanghai Jiao Tong University.</p>
+<p>Aa comfortable environment comparable to chill cafe space and a trading system comparable to the exchange. It can be said that he is the first version of the Stock Exchange in campus.</p>
+<p><strong>Below is the stock display screen and offline materials I designed</strong></p>
+<p><img src="https://DHLUI.github.io/post-images/1614415249456.png" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1614415732371.JPG" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1614415606608.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test02]]></title>
+        <id>https://DHLUI.github.io/post/test02/</id>
+        <link href="https://DHLUI.github.io/post/test02/">
+        </link>
+        <updated>2014-08-17T12:37:30.000Z</updated>
+        <content type="html"><![CDATA[<p>测试测试测试测试测试测试测试测试测试测试测试测试测试测试</p>
+<!-- more -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test01]]></title>
+        <id>https://DHLUI.github.io/post/test01/</id>
+        <link href="https://DHLUI.github.io/post/test01/">
+        </link>
+        <updated>2014-06-20T05:20:12.000Z</updated>
+        <content type="html"><![CDATA[<p>就啊打了卡就打开手机大家都叫阿所看见的</p>
+<!-- more -->]]></content>
     </entry>
 </feed>
