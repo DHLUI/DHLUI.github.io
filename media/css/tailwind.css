@@ -1900,7 +1900,8 @@ pre code.markdown {
 	}
 
 	.md\:pr-16 {
-		padding-right: 4rem
+		padding-right: 4rem;
+		padding-left: 2rem
 	}
 
 	.md\:pt-64 {
