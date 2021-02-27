@@ -14,13 +14,20 @@
     
 
   <meta name="description" content="A full time UX designer & part time CSSer. Come from China and now working at @Bytedance." />
+  
+  <style>
+	  .ha{
+		  font-size: 22px;
+	  }
+  </style>
+  
 </head>
 <body>
   <div class="antialiased flex flex-col min-h-screen" id="app">
 
     <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
   <div class="flex justify-end px-4">
-    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
+    <div class="ha w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
       <i class="ri-close-line" v-show="showMenu"></i>
       <i class="ri-menu-3-line" v-show="!showMenu"></i>
     </div>
