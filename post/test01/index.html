@@ -4,29 +4,32 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>test01 - Welcome here! I&#39;m Hanlin Dai 👋🏼</title>
+<title>Circuit design for taking the quilt automatically via STC89C51 single chip microcomputer - Welcome here! I&#39;m Hanlin Dai 👋🏼</title>
 <link rel="shortcut icon" href="https://DHLUI.github.io/favicon.ico">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
 <link rel="stylesheet" href="https://DHLUI.github.io/media/css/tailwind.css">
 <link rel="stylesheet" href="https://DHLUI.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="test01 - Welcome here! I&#39;m Hanlin Dai 👋🏼 - Atom Feed" href="https://DHLUI.github.io/atom.xml">
+<link rel="alternate" type="application/atom+xml" title="Circuit design for taking the quilt automatically via STC89C51 single chip microcomputer - Welcome here! I&#39;m Hanlin Dai 👋🏼 - Atom Feed" href="https://DHLUI.github.io/atom.xml">
 
     
 
-  <meta name="description" content="就啊打了卡就打开手机大家都叫阿所看见的
-" />
-  <meta property="og:title" content="test01 - Welcome here! I&#39;m Hanlin Dai 👋🏼">
-  <meta property="og:description" content="就啊打了卡就打开手机大家都叫阿所看见的
-" />
+  <meta name="description" content="
+
+Abstract：In this paper， the design and development of Based on SCM automatic sun close quilt devices. Drying apparatus..." />
+  <meta property="og:title" content="Circuit design for taking the quilt automatically via STC89C51 single chip microcomputer - Welcome here! I&#39;m Hanlin Dai 👋🏼">
+  <meta property="og:description" content="
+
+Abstract：In this paper， the design and development of Based on SCM automatic sun close quilt devices. Drying apparatus..." />
   <meta property="og:type" content="articles">
   <meta property="og:url" content="https://DHLUI.github.io/post/test01/" />
-  <meta property="og:image" content="https://DHLUI.github.io/post-images/test01.png">
+  <meta property="og:image" content="https://DHLUI.github.io/post-images/test01.jpg">
   <meta property="og:image:height" content="630">
   <meta property="og:image:width" content="1200">
-  <meta name="twitter:title" content="test01 - Welcome here! I&#39;m Hanlin Dai 👋🏼">
-  <meta name="twitter:description" content="就啊打了卡就打开手机大家都叫阿所看见的
-">
+  <meta name="twitter:title" content="Circuit design for taking the quilt automatically via STC89C51 single chip microcomputer - Welcome here! I&#39;m Hanlin Dai 👋🏼">
+  <meta name="twitter:description" content="
+
+Abstract：In this paper， the design and development of Based on SCM automatic sun close quilt devices. Drying apparatus...">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="canonical" href="https://DHLUI.github.io/post/test01/">
 
@@ -48,18 +51,101 @@
     <div class="max-w-4xl w-full mx-auto">
       <div class="shadow-box bg-white dark:bg-gray-600 rounded-lg pt-32 md:pt-64 px-4 md:px-8 pb-8 animated fadeIn mb-8">
         <h1 class="text-5xl font-semibold leading-normal pb-8 mb-8 border-b-8 border-gray-700">
-          test01
+          Circuit design for taking the quilt automatically via STC89C51 single chip microcomputer
         </h1>
         
-          <img src="https://DHLUI.github.io/post-images/test01.png" alt="test01" class="block w-full mb-8">
+          <img src="https://DHLUI.github.io/post-images/test01.jpg" alt="Circuit design for taking the quilt automatically via STC89C51 single chip microcomputer" class="block w-full mb-8">
         
         <div class="mb-8 flex flex-wrap">
-          <div class="text-gray-400 text-sm mr-4">2014-06-20 · 1 min read</div>
+          <div class="text-gray-400 text-sm mr-4">2014-06-20 · 9 min read</div>
           
         </div>
         <div class="markdown mb-8" v-pre>
-          <p>就啊打了卡就打开手机大家都叫阿所看见的</p>
-<!-- more -->
+          <ul>
+<li>
+<p>Abstract：In this paper， the design and development of Based on SCM automatic sun close quilt devices. Drying apparatus automatically receive quilts control module consists of two parts， one light control chip control module， is a motor control module， there is a mechanical conduction module.<!-- more --></p>
+</li>
+<li>
+<p>Key Words：MCU， light control sensor，sun close quilt，rack and pinion</p>
+</li>
+</ul>
+<h2 id="the-basic-content-of-the-research">The basic content of the research</h2>
+<h3 id="basic-content">Basic content</h3>
+<p>The main research directions are circuit and mechanism, which need a lot of time and experience.</p>
+<p>The mechanical part adopts rack and pinion transmission to drive the extension or retraction of the device.</p>
+<p>The circuit control part obtains the induction signal through the photosensitive sensor, and then controls the forward and reverse rotation of the motor. We start from the control circuit, and use the signal collected by the light control sensor to transmit to the system processing core MCU STC89S52. According to the light intensity at that time, we can judge whether we want to take it back. When the relative humidity in the air exceeds the set value (it is considered that it is going to rain or it has rained) or the light turns dark to a certain value (it is considered that it has been dark), the system will automatically send a signal to the motor, so as to control the automatic recovery device of the mechanical part.</p>
+<h3 id="motor-module">Motor module</h3>
+<p>The motor module is composed of four parts: motor 57byg250-76, control driver, switching power supply and coupling. The switching power supply changes 220 V AC into 12 V DC to provide power for the control driver. The control driver is connected with the single-chip microcomputer. The single-chip microcomputer sends out the command, which controls the motor 57byg250-76 to send out the action and complete the target action</p>
+<figure data-type="image" tabindex="1"><img src="https://DHLUI.github.io/post-images/1614686797875.jpg" alt="" loading="lazy"></figure>
+<p>First of all, we start from the control circuit. We use the signal collected by DS18B20 temperature sensor, rain sensor and photosensitive resistance to transmit to the system processing core microcontroller AT89S52. According to the temperature, humidity and light intensity at that time, we can judge whether the clothes rack should be taken back. When the relative humidity in the air exceeds the set value (think it will rain or it has rained) or the light becomes dark to a certain value (think it has been dark), the system will automatically send a pulse signal to the stepper motor, so as to control the mechanical part to automatically retract the clothes rack. The control circuit is characterized in that the control circuit comprises a single chip microcomputer and a rain sensor module connected with it, a motor driving module, a qualitative photosensitive sensor module, a switch positioning module, a temperature and humidity display module and a quantitative photosensitive sensor module, and a power supply is connected with the above modules and a single chip microcomputer to supply power for the control circuit. [9] According to the above working principle and design ideas, we first completed the framework design of the whole system, and completed the circuit design diagram of several core parts as follows:</p>
+<figure data-type="image" tabindex="2"><img src="https://DHLUI.github.io/post-images/1614687485243.png" alt="" loading="lazy"></figure>
+<p>As shown in the temperature detection circuit diagram, DS18B20 pin GND is the power supply ground, DQ is the digital signal input / output terminal, and VDD is the external power supply access terminal. In this system, external power supply is used, DQ is connected to t2.0 terminal of at89b52, R1 is the pull-up resistance between signal and 5V power supply. When the DS18B20 receives the temperature signal, it transmits the signal from the DQ end to the MCU, which makes a series of judgments according to the signal. The generated pulse signal is output through P2 port (p2.0, p2.1, p2.2, p2.3, P2.4, p2.5) and sent to the driver chip L298N to process the corresponding pulse signal and drive the stepper motor to rotate. Rain sensor is the focus of this design, the design uses multi-point When there is rain, the WY resistance of rain sensor becomes smaller. At this time, the 5-pin voltage of comparator is higher than the 4-pin voltage, and the 2-pin output high level. The high level is collected by the single chip microcomputer P1.2, and the control output is judged by the program, so that the clothes hanger can automatically retract. When the weather is fine, the WY resistance of rain sensor becomes larger. At this time, the 5-pin voltage of comparator is lower than 4-pin voltage, and the 2-pin output low level. The MCU P1.2 collects the low level, and the program judges and controls the output, so that the clothes hanger can automatically extend</p>
+<h2 id="system-hardware-module">System hardware module</h2>
+<h3 id="product-circuit-module">Product circuit module</h3>
+<p>STC89C51 is used as the core chip to control the operation of the system. The basic principle is as follows: first, when the light intensity is greater than the reference value set by the light control sensor, the light control sensor outputs &quot;0&quot; to the P1.0 pin of STC89C51. After receiving the signal, the MCU responds and outputs high and low levels to P1.1 and P1.2. The output signal is connected to the motor drive module for voltage stabilization and output to the motor, and the motor rotates forward; when the light intensity is less than the light control sensor, the motor rotates forward When setting the reference value, the light control sensor outputs &quot;1&quot; to the P1.0 pin of STC89C51. After receiving the signal, the MCU reacts and outputs low and high levels to P1.1 and P1.2. The output signal is connected to the motor drive module for voltage stabilization, and then output to the motor, and the motor reverses. Use the positive and negative rotation of the motor to control the operation of the mechanical part.</p>
+<h3 id="mcu-module">MCU module</h3>
+<p><strong>Use STC89C51 to control the motor drive.</strong></p>
+<figure data-type="image" tabindex="3"><img src="https://DHLUI.github.io/post-images/1614688846699.png" alt="" loading="lazy"></figure>
+<h3 id="motor-voltage-regulator-module">Motor voltage regulator module</h3>
+<p>Considering that the voltage directly output by MCU is not stable, it can not be directly connected to the two pins of the motor, because the voltage regulator module is used to control the output voltage.</p>
+<figure data-type="image" tabindex="4"><img src="https://DHLUI.github.io/post-images/1614688854369.png" alt="" loading="lazy"></figure>
+<h3 id="schematic-diagram-of-overall-circuit">Schematic diagram of overall circuit</h3>
+<figure data-type="image" tabindex="5"><img src="https://DHLUI.github.io/post-images/1614689325545.png" alt="" loading="lazy"></figure>
+<h2 id="product-mechanical-module">Product mechanical module</h2>
+<figure data-type="image" tabindex="6"><img src="https://DHLUI.github.io/post-images/1614690124373.jpg" alt="" loading="lazy"></figure>
+<p>The internal component module mainly includes the following parts: the board part for placing objects, the card slot for controlling the track of the board, the gear and the rack part. Among them, the gear is connected with the motor part. When the power is supplied to the motor, the gear rotates to drive the rack and the board to move, so as to achieve the function of extending or retracting the board and realize the drying and retracting. In addition, the circuit board is fixed on the right side of the device to save space. A small hole is opened on the top left of the shell of the product for the photosensitive sensor to extend and sense the strength of sunlight.</p>
+<p><img src="https://DHLUI.github.io/post-images/1614689561600.jpg" alt="" loading="lazy"><br>
+<img src="https://DHLUI.github.io/post-images/1614689646385.png" alt="" loading="lazy"></p>
+<h2 id="software-part">Software part</h2>
+<h3 id="software-program-code">Software program code</h3>
+<p>First of all, when the light intensity is greater than the reference value set by the light control sensor, the light control sensor outputs &quot;0&quot; to the P1.0 pin of STC89C51. After receiving the signal, the MCU reacts and outputs high and low levels to P1.1 and P1.2, and this process is maintained for 3 seconds. The output signal is connected to the motor driver module for voltage stabilization, and is output to the motor, and the motor rotates forward When the light control sensor sets the reference value, the light control sensor outputs &quot;1&quot; to the P1.0 pin of STC89C51. After receiving the signal, the microcontroller reacts and outputs low and high levels to P1.1 and P1.2, and this process is maintained for 3 seconds. The output signal is connected to the motor drive module for voltage stabilization, output to the motor, and the motor reverses. Use the positive and negative rotation of the motor to control the operation of the mechanical part.</p>
+<pre><code class="language-css">#include&lt;reg52.h&gt;
+typedef unsigned int uint16;
+sbit in = P1^0;
+sbit a = P1^1;
+sbit b = P1^2;
+void delayus(uint16);
+void delayms(uint16);
+void main()
+	{	
+		while(1)
+		{  
+			 if(in==1)
+				{	
+					a = 1;				 																b = 0;
+					delayms(1000);
+					a = 0;				
+					b = 0;
+					while(in==1);													
+                    }
+			else if (in==0)
+				{
+					a = 0;
+					b = 1;
+					delayms(1000);
+					a = 0;
+					b = 0;
+				    while(in==0);	                                                                                                                           
+				}
+            }
+	}
+
+void delayus(uint16 t)
+	{   
+	 	while(--t);
+	}
+
+void delayms(uint16 t)
+	{
+		     
+		 while(t--)
+			 {
+			     delayus(245);
+				 delayus(245);
+			 }
+	}
+</code></pre>
+
         </div>
         <!-- Share to Twitter, Weibo, Telegram -->
         <div class="flex items-center">
@@ -99,7 +185,33 @@
         </div>
       </div>
       <div class="post-toc-container">
-        
+        <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#the-basic-content-of-the-research">The basic content of the research</a>
+<ul>
+<li><a href="#basic-content">Basic content</a></li>
+<li><a href="#motor-module">Motor module</a></li>
+</ul>
+</li>
+<li><a href="#system-hardware-module">System hardware module</a>
+<ul>
+<li><a href="#product-circuit-module">Product circuit module</a></li>
+<li><a href="#mcu-module">MCU module</a></li>
+<li><a href="#motor-voltage-regulator-module">Motor voltage regulator module</a></li>
+<li><a href="#schematic-diagram-of-overall-circuit">Schematic diagram of overall circuit</a></li>
+</ul>
+</li>
+<li><a href="#product-mechanical-module">Product mechanical module</a></li>
+<li><a href="#software-part">Software part</a>
+<ul>
+<li><a href="#software-program-code">Software program code</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
       </div>
     </div>
 
