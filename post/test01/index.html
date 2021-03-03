@@ -103,7 +103,7 @@ Abstract：In this paper， the design and development of Based on SCM automatic
 <figure data-type="image" tabindex="9"><img src="https://DHLUI.github.io/post-images/1614743040201.png" alt="" loading="lazy"></figure>
 <h3 id="software-program-code">Software program code</h3>
 <p>First of all, when the light intensity is greater than the reference value set by the light control sensor, the light control sensor outputs &quot;0&quot; to the P1.0 pin of STC89C51. After receiving the signal, the MCU reacts and outputs high and low levels to P1.1 and P1.2, and this process is maintained for 3 seconds. The output signal is connected to the motor driver module for voltage stabilization, and is output to the motor, and the motor rotates forward When the light control sensor sets the reference value, the light control sensor outputs &quot;1&quot; to the P1.0 pin of STC89C51. After receiving the signal, the microcontroller reacts and outputs low and high levels to P1.1 and P1.2, and this process is maintained for 3 seconds. The output signal is connected to the motor drive module for voltage stabilization, output to the motor, and the motor reverses. Use the positive and negative rotation of the motor to control the operation of the mechanical part.</p>
-<pre><code class="language-css">#include&lt;reg52.h&gt;
+<pre><code class="language-js">#include&lt;reg52.h&gt;
 typedef unsigned int uint16;
 sbit in = P1^0;
 sbit a = P1^1;
