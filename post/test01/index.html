@@ -57,7 +57,7 @@ Abstract：In this paper， the design and development of Based on SCM automatic
           <img src="https://DHLUI.github.io/post-images/test01.jpg" alt="Circuit design for taking the quilt automatically via STC89C51 single chip microcomputer" class="block w-full mb-8">
         
         <div class="mb-8 flex flex-wrap">
-          <div class="text-gray-400 text-sm mr-4">2014-06-20 · 9 min read</div>
+          <div class="text-gray-400 text-sm mr-4">2014-06-20 · 10 min read</div>
           
         </div>
         <div class="markdown mb-8" v-pre>
@@ -94,9 +94,13 @@ Abstract：In this paper， the design and development of Based on SCM automatic
 <h2 id="product-mechanical-module">Product mechanical module</h2>
 <figure data-type="image" tabindex="6"><img src="https://DHLUI.github.io/post-images/1614690124373.jpg" alt="" loading="lazy"></figure>
 <p>The internal component module mainly includes the following parts: the board part for placing objects, the card slot for controlling the track of the board, the gear and the rack part. Among them, the gear is connected with the motor part. When the power is supplied to the motor, the gear rotates to drive the rack and the board to move, so as to achieve the function of extending or retracting the board and realize the drying and retracting. In addition, the circuit board is fixed on the right side of the device to save space. A small hole is opened on the top left of the shell of the product for the photosensitive sensor to extend and sense the strength of sunlight.</p>
-<p><img src="https://DHLUI.github.io/post-images/1614689561600.jpg" alt="" loading="lazy"><br>
-<img src="https://DHLUI.github.io/post-images/1614689646385.png" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="7"><img src="https://DHLUI.github.io/post-images/1614689561600.jpg" alt="" loading="lazy"></figure>
 <h2 id="software-part">Software part</h2>
+<h3 id="bread-board-welding-stc89c51-single-chip-microcomputer">Bread board welding STC89C51 single chip microcomputer</h3>
+<figure data-type="image" tabindex="8"><img src="https://DHLUI.github.io/post-images/1614689646385.png" alt="" loading="lazy"></figure>
+<h3 id="the-overall-construction-of-demo">The overall construction of demo</h3>
+<p>Originally planned to use 3D printing to achieve, but later due to the high cost of printing, so the use of cardboard to build a demo to experiment</p>
+<figure data-type="image" tabindex="9"><img src="https://DHLUI.github.io/post-images/1614743040201.png" alt="" loading="lazy"></figure>
 <h3 id="software-program-code">Software program code</h3>
 <p>First of all, when the light intensity is greater than the reference value set by the light control sensor, the light control sensor outputs &quot;0&quot; to the P1.0 pin of STC89C51. After receiving the signal, the MCU reacts and outputs high and low levels to P1.1 and P1.2, and this process is maintained for 3 seconds. The output signal is connected to the motor driver module for voltage stabilization, and is output to the motor, and the motor rotates forward When the light control sensor sets the reference value, the light control sensor outputs &quot;1&quot; to the P1.0 pin of STC89C51. After receiving the signal, the microcontroller reacts and outputs low and high levels to P1.1 and P1.2, and this process is maintained for 3 seconds. The output signal is connected to the motor drive module for voltage stabilization, output to the motor, and the motor reverses. Use the positive and negative rotation of the motor to control the operation of the mechanical part.</p>
 <pre><code class="language-css">#include&lt;reg52.h&gt;
@@ -205,6 +209,8 @@ void delayms(uint16 t)
 <li><a href="#product-mechanical-module">Product mechanical module</a></li>
 <li><a href="#software-part">Software part</a>
 <ul>
+<li><a href="#bread-board-welding-stc89c51-single-chip-microcomputer">Bread board welding STC89C51 single chip microcomputer</a></li>
+<li><a href="#the-overall-construction-of-demo">The overall construction of demo</a></li>
 <li><a href="#software-program-code">Software program code</a></li>
 </ul>
 </li>
@@ -281,7 +287,7 @@ void delayms(uint16 t)
   
   <!-- Code Highlight -->
   
-    <script src="https://DHLUI.github.io/media/prism.js"></script>
+    <script src="hhttps://DHLUI.github.io/media/prism.js"></script>
     <script>
       Prism.highlightAll()
     </script>
