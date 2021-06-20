@@ -1233,8 +1233,8 @@ svg {
 
 @media (prefers-color-scheme:dark) {
 	.btn {
-		background-color: #ffd602;
-		color: #333
+		background-color: #4e33f3;
+		color: #eeecf7
 	}
 
 	.btn.btn-white {
