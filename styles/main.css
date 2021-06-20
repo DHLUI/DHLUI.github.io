@@ -28,7 +28,7 @@ a:not([class]):hover {
 @media (prefers-color-scheme: dark) {
   body {
     background: #0E1116;
-    color: #D1DAE8;
+    color: #E5E7EA;
   }
 }
 .yellow-btn {
