@@ -27,7 +27,7 @@ a:not([class]):hover {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background: #333;
+    background: #0E1116;
     color: #999;
   }
 }
